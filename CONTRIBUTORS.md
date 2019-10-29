@@ -422,3 +422,10 @@
 - Bio: Competitive Programmer(New to Open Source Programming)
 - Github: https://github.com/sauravjoshi23
 ***
+
+### Rayyan Merchant
+- Photo: N/A
+- Location: Mumbai , India
+- Bio: Backend Developer. Competitive Programmer.
+- Github: https://github.com/RayyanMerchant
+***
